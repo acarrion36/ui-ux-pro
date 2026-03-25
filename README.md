@@ -1,17 +1,17 @@
 # [UI UX Pro Max](https://uupm.cc)
  
 <p align="center">
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/releases"><img src="https://img.shields.io/github/v/release/nextlevelbuilder/ui-ux-pro-max-skill?style=for-the-badge&color=blue" alt="GitHub Release"></a>
+  <a href="https://github.com/acarrion36/ui-ux-pro-max-skill/releases"><img src="https://img.shields.io/github/v/release/acarrion36/ui-ux-pro-max-skill?style=for-the-badge&color=blue" alt="GitHub Release"></a>
   <img src="https://img.shields.io/badge/reasoning_rules-161-green?style=for-the-badge" alt="161 Reasoning Rules">
   <img src="https://img.shields.io/badge/UI_styles-67-purple?style=for-the-badge" alt="67 UI Styles">
   <img src="https://img.shields.io/badge/python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.x">
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/LICENSE"><img src="https://img.shields.io/github/license/nextlevelbuilder/ui-ux-pro-max-skill?style=for-the-badge&color=green" alt="License"></a>
+  <a href="https://github.com/acarrion36/ui-ux-pro-max-skill/blob/main/LICENSE"><img src="https://img.shields.io/github/license/acarrion36/ui-ux-pro-max-skill?style=for-the-badge&color=green" alt="License"></a>
 </p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/uipro-cli"><img src="https://img.shields.io/npm/v/uipro-cli?style=flat-square&logo=npm&label=CLI" alt="npm"></a>
   <a href="https://www.npmjs.com/package/uipro-cli"><img src="https://img.shields.io/npm/dm/uipro-cli?style=flat-square&label=downloads" alt="npm downloads"></a>
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/stargazers"><img src="https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat-square&logo=github" alt="GitHub stars"></a>
+  <a href="https://github.com/acarrion36/ui-ux-pro-max-skill/stargazers"><img src="https://img.shields.io/github/stars/acarrion36/ui-ux-pro-max-skill?style=flat-square&logo=github" alt="GitHub stars"></a>
   <a href="https://paypal.me/uiuxpromax"><img src="https://img.shields.io/badge/PayPal-Support%20Development-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"></a>
 </p>
 
@@ -258,7 +258,7 @@ Each rule includes:
 Install directly in Claude Code with two commands:
 
 ```
-/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
+/plugin marketplace add acarrion36/ui-ux-pro-max-skill
 /plugin install ui-ux-pro-max@ui-ux-pro-max-skill
 ```
 
@@ -457,7 +457,7 @@ If you want to contribute to this project:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+git clone https://github.com/acarrion36/ui-ux-pro-max-skill.git
 cd ui-ux-pro-max-skill
 
 # 2. Understand the structure
@@ -491,7 +491,7 @@ See [CLAUDE.md](CLAUDE.md) for detailed development guidelines.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=nextlevelbuilder/ui-ux-pro-max-skill&type=Date)](https://star-history.com/#nextlevelbuilder/ui-ux-pro-max-skill&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=acarrion36/ui-ux-pro-max-skill&type=Date)](https://star-history.com/#acarrion36/ui-ux-pro-max-skill&Date)
 
 ## License
 
